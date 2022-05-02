@@ -1,4 +1,4 @@
-# livePortraits
+# livePortraits(forks)
 This repository contains an partial implemetation of "Bringing Portraits to Life" by Averbuch-Elor et al (2017) without fine-details transfer. Code was written as a part of final project for the course of "Computer Vision for Faces 2018" offered by School of AI (https://courses.learnopencv.com/courses/).
 
 <b>Usage: </b> 
